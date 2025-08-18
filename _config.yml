@@ -37,7 +37,7 @@ theme: just-the-docs
 # Aux links for upper right navigation link
 aux_links:
   "Canvas":
-    - "TBD"
+    - "https://canvas.illinois.edu/courses/61909"
   "GitHub":
     - "https://github.com/uiuc-ae598-marl-2025-fall/"
   "GitHub Classroom":
@@ -46,8 +46,10 @@ aux_links:
     - "https://www.gradescope.com/courses/1087940"
   # "Lectures":
   #   - "https://drive.google.com/drive/folders/1XNkmpGDMHmJJEC2NRzIlImsSxwqWeLda?usp=sharing"
-  # "Media Space":
-  #   - "https://mediaspace.illinois.edu/channel/channelid/366621562"
+  "Media Space":
+    - "https://mediaspace.illinois.edu/channel/channelid/384701542"
+  "Piazza":
+    - "https://piazza.com/class/mehimpwemll3kv"
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Collections for website data

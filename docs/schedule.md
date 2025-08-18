@@ -7,12 +7,14 @@ nav_order: 4
 
 ## Topics
 
-- Statistical Learning (linear regression and classification, sampling, model selection)
+TBD
+
+<!-- - Reinforcement Learning
 - Artificial Neural Networks
 - Design of Experiments
 - Response Surface Methodology
 - Metaheuristic Optimization
-- Multi-Objective Optimization
+- Multi-Objective Optimization -->
 
 ## Schedule
 

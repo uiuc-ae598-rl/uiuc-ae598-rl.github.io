@@ -4,17 +4,17 @@ title: Home
 nav_order: 1
 ---
 
-# AE 498: Computational Systems Engineering
+# AE 598: Multi-agent Reinforcement Learning
 
-**University of Illinois at Urbana-Champaign, Spring 2025**
+**University of Illinois at Urbana-Champaign, Fall 2025**
 
 **Instructor:** Huy Tran
 
-**Time:** Monday, Wednesday @ 2:30 pm - 3:50 pm
+**Time:** Tuesday, Thursday @ 2:00 pm - 3:20 pm
 
-**Location:** 106B8 [Engineering Hall](https://maps.app.goo.gl/5Rk2i6RuZ8NnEZcQ6)
+**Location:** 410B1 [Engineering Hall](https://maps.app.goo.gl/5Rk2i6RuZ8NnEZcQ6)
 
-Welcome! This course will introduce computational methods for the analysis and design of complex aerospace systems. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
+Welcome! This course will discuss concepts and algorithms for multi-agent reinforcement learning (MARL). See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
 <!-- We hope you enjoy your exploration into this subject! Here are some (of many) exciting example applications of numerical methods:
 
