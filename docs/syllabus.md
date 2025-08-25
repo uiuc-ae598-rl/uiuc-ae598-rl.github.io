@@ -105,7 +105,6 @@ Any student with special needs or circumstances requiring accommodation in this 
 
 ## Additional References
 
-- ["Reinforcement Learning: An Introduction"](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto (MIT Press, 2018)
 - ["Algorithms of Reinforcement Learning"](https://sites.ualberta.ca/~szepesva/rlbook.html) by Szepesvari (Morgan & Claypool Publishers, 2009)
 - ["Reinforcement Learning: State-of-the-Art"](https://link.springer.com/book/10.1007/978-3-642-27645-3) by Wiering and Otterlo (Spring, 2012)
 - ["Reinforcement Learning and Optimal Control"](http://www.athenasc.com/rlbook_athena.html) by Bertsekas (Athena Scientific, 2019)

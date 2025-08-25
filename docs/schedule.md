@@ -7,14 +7,12 @@ nav_order: 4
 
 ## Topics
 
-TBD
+(subject to change)
 
-<!-- - Reinforcement Learning
-- Artificial Neural Networks
-- Design of Experiments
-- Response Surface Methodology
-- Metaheuristic Optimization
-- Multi-Objective Optimization -->
+- Models (MDPs, games)
+- RL (tabular methods, approximate methods)
+- Cooperative MARL (...)
+- Non-cooperative MARL (...)
 
 ## Schedule
 
