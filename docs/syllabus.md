@@ -7,7 +7,7 @@ nav_order: 3
 
 # Course Description
 
-This course will discuss concepts and algorithms for multi-agent reinforcement learning (MARL). The goal is for students to understand: (1) key concepts, (2) key algorithms and their implementation, and (3) new topics in the field. Topics include single-agent reinforcement learning (MDPs, value-based methods, policy methods), games, tabular MARL algorithms, and deep learning-based MARL algorithms.
+This course will discuss concepts and algorithms for reinforcement learning (RL) and multi-agent RL (MARL). The goal is for students to understand: (1) key concepts, (2) key algorithms and their implementation, and (3) new topics in the field. Topics include (single-agent) reinforcement learning (MDPs, value-based methods, policy methods), games, and MARL algorithms.
 
 **Pre-requisites:** Probability and statistics (STAT 361, STAT 400, ISE 300, or equivalent) or permission from the instructor.
 
@@ -15,9 +15,9 @@ This course will discuss concepts and algorithms for multi-agent reinforcement l
 
 # Learning Outcomes
 
-- Understand the mathematical fundamentals of key theoretical and algorithmic concepts in MARL
-- Know how to implement and use common MARL algorithms with code
-- Gain experience applying MARL to open-ended research problems
+- Understand the mathematical fundamentals of key theoretical and algorithmic concepts in RL/MARL
+- Know how to implement and use common RL/MARL algorithms with code
+- Gain experience applying RL/MARL to open-ended research problems
 - Communicate technical information clearly and concisely
 
 # Course Content and Tools
@@ -32,7 +32,7 @@ We recommend you set up notifications to keep up with announcements. Any questio
 
 ## Textbook and Lectures
 
-We will loosely follow Albrecht et al.'s MARL textbook (available for free [here](https://www.marl-book.com/)).
+We will loosely follow various topics from Sutton and Barto's RL textbook (available for free [here](http://incompleteideas.net/book/the-book-2nd.html)) and Albrecht et al.'s MARL textbook (available for free [here](https://www.marl-book.com/)).
 
 Lecture materials will posted to Canvas.
 
@@ -48,7 +48,7 @@ See the [Resources/Assignments]({{ site.baseurl }}/resources/assignments) page f
 
 All coding assignments will be done with [Python](https://www.python.org/). Python is open-source, widely used, and has a very active support community (e.g., [stack overflow](https://stackoverflow.com/)). You are expected to already be proficient in Python.
 
-See the [Resources]({{ site.baseurl }}/resources) page for resources related to coding (e.g., suggestions on setting up a [programming environment]({{ site.baseurl }}/resources/programming-environment) for this course).
+See the [Resources]({{ site.baseurl }}/resources) page for resources related to coding.
 
 # Grading
 

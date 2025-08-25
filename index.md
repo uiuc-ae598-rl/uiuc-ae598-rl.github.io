@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# AE 598: Multi-agent Reinforcement Learning
+# AE 598: (Multi-agent) Reinforcement Learning
 
 **University of Illinois at Urbana-Champaign, Fall 2025**
 
@@ -14,7 +14,7 @@ nav_order: 1
 
 **Location:** 410B1 [Engineering Hall](https://maps.app.goo.gl/5Rk2i6RuZ8NnEZcQ6)
 
-Welcome! This course will discuss concepts and algorithms for multi-agent reinforcement learning (MARL). See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
+Welcome! This course will discuss concepts and algorithms for reinforcement learning (RL) and multi-agent RL (MARL). See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
 <!-- We hope you enjoy your exploration into this subject! Here are some (of many) exciting example applications of numerical methods:
 
