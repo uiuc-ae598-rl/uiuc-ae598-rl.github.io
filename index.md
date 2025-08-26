@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# AE 598: (Multi-agent) Reinforcement Learning
+# AE 598: Reinforcement Learning
 
 **University of Illinois at Urbana-Champaign, Fall 2025**
 

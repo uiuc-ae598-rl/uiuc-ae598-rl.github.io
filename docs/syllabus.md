@@ -7,7 +7,7 @@ nav_order: 3
 
 # Course Description
 
-This course will discuss concepts and algorithms for reinforcement learning (RL) and multi-agent RL (MARL). The goal is for students to understand: (1) key concepts, (2) key algorithms and their implementation, and (3) new topics in the field. Topics include (single-agent) reinforcement learning (MDPs, value-based methods, policy methods), games, and MARL algorithms.
+This course will discuss concepts and algorithms for reinforcement learning (RL) and multi-agent RL (MARL). The goal is for students to understand: (1) key concepts, (2) key algorithms and their implementation, and (3) new topics in the field. Topics include models (MDPs, games) and algorithms (RL, cooperative MARL, and non-cooperative MARL).
 
 **Pre-requisites:** Probability and statistics (STAT 361, STAT 400, ISE 300, or equivalent) or permission from the instructor.
 
@@ -15,9 +15,9 @@ This course will discuss concepts and algorithms for reinforcement learning (RL)
 
 # Learning Outcomes
 
-- Understand the mathematical fundamentals of key theoretical and algorithmic concepts in RL/MARL
-- Know how to implement and use common RL/MARL algorithms with code
-- Gain experience applying RL/MARL to open-ended research problems
+- Understand the mathematical fundamentals of key theoretical and algorithmic concepts in RL and MARL
+- Know how to implement and use common RL and MARL algorithms with code
+- Gain experience applying RL and MARL to open-ended research problems
 - Communicate technical information clearly and concisely
 
 # Course Content and Tools
