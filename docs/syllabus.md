@@ -22,25 +22,25 @@ This course will discuss concepts and algorithms for reinforcement learning (RL)
 
 # Course Content and Tools
 
-Links to course content are given in Canvas and provided at the top of this website. This website, Canvas, and GitHub will be your primary locations for course content.
+Links to course content are at the top of this website.
 
 ## Announcements and Discussions
 
-Announcements and discussions will be handled on Piazza (which you can access through Canvas). Find our Piazza class signup link at: [https://piazza.com/illinois/fall2025/ae_598_120258_252834](https://piazza.com/illinois/fall2025/ae_598_120258_252834).
+Announcements and discussions will be handled on Piazza. Find our Piazza class signup link at: [https://piazza.com/illinois/fall2025/ae_598_120258_252834](https://piazza.com/illinois/fall2025/ae_598_120258_252834).
 
 We recommend you set up notifications to keep up with announcements. Any questions about concepts, assignments, or course material should be made public to avoid answering the same question multiple times. Feel free to post anonymously to your peers or anonymously to everyone (including instructors) as desired. Messages regarding personal issues (e.g., sickness, leave, individual grades) should be sent privately to the instructor(s).
 
 ## Textbook and Lectures
 
-We will loosely follow various topics from Sutton and Barto's RL textbook (available for free [here](http://incompleteideas.net/book/the-book-2nd.html)) and Albrecht et al.'s MARL textbook (available for free [here](https://www.marl-book.com/)).
+Lecture materials will posted to a shared directory on Google Drive.
 
-Lecture materials will posted to Canvas.
+We will loosely follow various topics from Sutton and Barto's RL textbook (available for free [here](http://incompleteideas.net/book/the-book-2nd.html)) and Albrecht et al.'s MARL textbook (available for free [here](https://www.marl-book.com/)).
 
 ## Assignments
 
 Assignments will be distributed using GitHub Classroom---links to assignments will be posted on the [Schedule]({{ site.baseurl }}/schedule) page. If you have not used GitHub, there is a short tutorial available [here](https://github.com/skills/introduction-to-github).
 
-Assignment submissions and grades will be handled on Gradescope (which you can access through Canvas).
+Assignment submissions and grades will be handled on Gradescope.
 
 See the [Resources/Assignments]({{ site.baseurl }}/resources/assignments) page for more details regarding assignment distribution and submissions.
 
@@ -105,6 +105,7 @@ Any student with special needs or circumstances requiring accommodation in this 
 
 ## Additional References
 
+- ["Algorithms for Decision Making"](https://algorithmsbook.com/decisionmaking/) by Kochenderfer et al. (MIT Press, 2022)
 - ["Algorithms of Reinforcement Learning"](https://sites.ualberta.ca/~szepesva/rlbook.html) by Szepesvari (Morgan & Claypool Publishers, 2009)
 - ["Reinforcement Learning: State-of-the-Art"](https://link.springer.com/book/10.1007/978-3-642-27645-3) by Wiering and Otterlo (Spring, 2012)
 - ["Reinforcement Learning and Optimal Control"](http://www.athenasc.com/rlbook_athena.html) by Bertsekas (Athena Scientific, 2019)

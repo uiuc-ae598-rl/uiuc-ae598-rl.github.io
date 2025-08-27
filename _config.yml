@@ -36,16 +36,16 @@ theme: just-the-docs
 # Theme settings
 # Aux links for upper right navigation link
 aux_links:
-  "Canvas":
-    - "https://canvas.illinois.edu/courses/61909"
+  # "Canvas":
+  #   - "https://canvas.illinois.edu/courses/61909"
   "GitHub":
     - "https://github.com/uiuc-ae598-rl-2025-fall/"
   "GitHub Classroom":
     - "https://classroom.github.com/classrooms/207589571-ae-598-rl"
+  "Google Drive":
+    - "https://drive.google.com/open?id=1gOqO_2Mo6MCKCFLcfpRbB4MF10fVwvtg&usp=drive_fs"
   "Gradescope":
     - "https://www.gradescope.com/courses/1087940"
-  # "Lectures":
-  #   - "https://drive.google.com/drive/folders/1XNkmpGDMHmJJEC2NRzIlImsSxwqWeLda?usp=sharing"
   "Media Space":
     - "https://mediaspace.illinois.edu/channel/channelid/384701542"
   "Piazza":
