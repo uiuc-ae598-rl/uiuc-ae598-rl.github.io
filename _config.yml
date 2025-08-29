@@ -38,6 +38,8 @@ theme: just-the-docs
 aux_links:
   # "Canvas":
   #   - "https://canvas.illinois.edu/courses/61909"
+  "Campuswire":
+    - "https://campuswire.com/c/GAB7E9360/feed"
   "GitHub":
     - "https://github.com/uiuc-ae598-rl-2025-fall/"
   "GitHub Classroom":
@@ -48,8 +50,6 @@ aux_links:
     - "https://www.gradescope.com/courses/1087940"
   "Media Space":
     - "https://mediaspace.illinois.edu/channel/channelid/384701542"
-  "Piazza":
-    - "https://piazza.com/class/mehimpwemll3kv"
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Collections for website data
