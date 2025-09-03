@@ -6,4 +6,4 @@ Tues Sept 2
 : NO CLASS
 
 Thu Sept 4
-: **LEC 3**{: .label .label-grey }Games
+: **LEC 2**{: .label .label-grey }MDPs
