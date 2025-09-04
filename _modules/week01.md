@@ -1,5 +1,5 @@
 ---
-title: Week 1 (Models)
+title: Week 1 (RL)
 ---
 
 Tues Aug 26
