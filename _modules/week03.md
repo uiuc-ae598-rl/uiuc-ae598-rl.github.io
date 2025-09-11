@@ -1,9 +1,9 @@
 ---
-title: Week 3
+title: Week 3 (Tabular methods)
 ---
 
 Tues Sept 9
-: **LEC 3**{: .label .label-grey }Tabular methods
+: **LEC 2**{: .label .label-grey }MDPs
 
 Thu Sept 11
 : **LEC 3**{: .label .label-grey }Dynamic programming
