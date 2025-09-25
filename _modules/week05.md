@@ -10,5 +10,5 @@ Tues Sept 23
 
 Thu Sept 25
 : **LEC 5**{: .label .label-grey }TD learning
-    : [HW 2: TD learning]()
+    : [HW2: Tabular](https://classroom.github.com/a/qZAaOmzv)
 : **HW 2 Assigned**{: .label .label-yellow }
