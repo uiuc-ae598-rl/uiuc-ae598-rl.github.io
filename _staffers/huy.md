@@ -5,7 +5,7 @@ role: Instructor
 email: huytran1@illinois.edu
 website: https://tran.aerospace.illinois.edu/
 photo: huy.jpg
-office-hours: Friday @ 2:30 pm - 3:30 pm (Talbot 321C, see Canvas for virtual link)
+office-hours: Friday @ 2:00 pm - 3:00 pm (Talbot 321C, message me on Campuswire for a virtual meeting)
 # office-hours-virtual: Friday @ 2:00 pm - 3:00 pm (Talbot 321C
 # office-hours-virtual-link: https://illinois.zoom.us/j/87531681306?pwd=nyCYbb8taSMg1VPGOas0GrdShGcgty.1
 ---
